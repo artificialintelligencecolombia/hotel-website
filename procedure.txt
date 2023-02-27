@@ -5,3 +5,8 @@
 -Login btn.
 -Dropdown menu.
 .2.Modifications.
+.3.Css file added and styles createdd based it chatgpt.
+
+TOMORROW: 
+-Background slider.
+-Create sections.
