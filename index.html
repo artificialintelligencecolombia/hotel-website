@@ -1,69 +1,147 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Hotel Name - Luxury Accommodations</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css"> 
-  </head>
 
-  <body>
+<head>
+  <title>Hotel Name - Luxury Accommodations</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+</head>
 
-    <header>
-      <nav>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Rooms & Suites</a></li>
-          <li><a href="#">Amenities</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Local Guide</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
+<body>
 
-    <main>
-      <section id="hero">
-        <h1>Welcome to Hotel Name</h1>
-
-        <form action="#" method="POST">
-          <label for="check-in">Check-in:</label>
-          <input type="date" id="check-in" name="check-in">
-          <label for="check-out">Check-out:</label>
-          <input type="date" id="check-out" name="check-out">
-          <label for="guests">Guests:</label>
-          <input type="number" id="guests" name="guests" min="1">
-          <label for="room-type">Pets:</label>
-
-          <select id="pets" name="pets">
-            <option value="standard">YES</option>
-            <option value="deluxe">NO</option>
-          </select>
-
-          <label for="special-requests">Special Requests:</label>
-          <textarea id="special-requests" name="special-requests" rows="3"></textarea>
-          
-          <button type="submit">Book Now</button>
-        </form>
-        <a href="#">Already have an account? Log in here.</a>
-      </section>
-    </main>
-
-    <footer>
+  <header>
+    <nav>
       <ul>
-        <li><a href="#">Terms and Conditions</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-        <li><a href="#">Site Map</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Rooms & Suites</a></li>
+        <li><a href="#">Amenities</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Local Guide</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
-      <ul>
-        <li><a href="#">Follow Us</a></li>
-        <li><a href="#">Facebook</a></li>
-        <li><a href="#">Twitter</a></li>
-        <li><a href="#">Instagram</a></li>
-      </ul>
-      <p>&copy; 2023 Hotel Name. All rights reserved.</p>
-      <p>Contact us: 123 Main Street, Anytown USA | 555-555-5555 | info@hotelname.com</p>
-    </footer>
-  </body>
+    </nav>
+  </header>
+
+  <main>
+
+    <!--H1 & Bookings-->
+
+    <section id="hero">
+      <h1>Welcome to Hotel Name</h1>
+
+      <form action="#" method="POST">
+        <label for="check-in">Check-in:</label>
+        <input type="date" id="check-in" name="check-in">
+        <label for="check-out">Check-out:</label>
+        <input type="date" id="check-out" name="check-out">
+        <label for="guests">Guests:</label>
+        <input type="number" id="guests" name="guests" min="1">
+        <label for="room-type">Pets:</label>
+
+        <select id="pets" name="pets">
+          <option value="standard">YES</option>
+          <option value="deluxe">NO</option>
+        </select>
+
+        <label for="special-requests">Special Requests:</label>
+        <textarea id="special-requests" name="special-requests" rows="3"></textarea>
+
+        <button type="submit">Book Now</button>
+      </form>
+      <a href="#">Already have an account? Log in here.</a>
+    </section>
+
+    <!--Slideshow-->
+
+    <!-- Container for the image gallery -->
+    <div class="container">
+
+      <!-- Full-width images with number text -->
+      <div class="mySlides">
+        <div class="numbertext">1 / 6</div>
+        <img src="img_woods_wide.jpg" style="width:100%">
+      </div>
+
+      <div class="mySlides">
+        <div class="numbertext">2 / 6</div>
+        <img src="img_5terre_wide.jpg" style="width:100%">
+      </div>
+
+      <div class="mySlides">
+        <div class="numbertext">3 / 6</div>
+        <img src="img_mountains_wide.jpg" style="width:100%">
+      </div>
+
+      <div class="mySlides">
+        <div class="numbertext">4 / 6</div>
+        <img src="img_lights_wide.jpg" style="width:100%">
+      </div>
+
+      <div class="mySlides">
+        <div class="numbertext">5 / 6</div>
+        <img src="img_nature_wide.jpg" style="width:100%">
+      </div>
+
+      <div class="mySlides">
+        <div class="numbertext">6 / 6</div>
+        <img src="img_snow_wide.jpg" style="width:100%">
+      </div>
+
+      <!-- Next and previous buttons -->
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+      <!-- Image text -->
+      <div class="caption-container">
+        <p id="caption"></p>
+      </div>
+
+      <!-- Thumbnail images -->
+      <div class="row">
+        <div class="column">
+          <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)"
+            alt="Mountains and fjords">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)"
+            alt="Northern Lights">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)"
+            alt="Nature and sunrise">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)"
+            alt="Snowy Mountains">
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer>
+    <ul>
+      <li><a href="#">Terms and Conditions</a></li>
+      <li><a href="#">Privacy Policy</a></li>
+      <li><a href="#">Site Map</a></li>
+    </ul>
+    <ul>
+      <li><a href="#">Follow Us</a></li>
+      <li><a href="#">Facebook</a></li>
+      <li><a href="#">Twitter</a></li>
+      <li><a href="#">Instagram</a></li>
+    </ul>
+    <p>&copy; 2023 Hotel Name. All rights reserved.</p>
+    <p>Contact us: 123 Main Street, Anytown USA | 555-555-5555 | info@hotelname.com</p>
+  </footer>
+</body>
+
 </html>

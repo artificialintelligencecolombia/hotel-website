@@ -1,4 +1,4 @@
-#27/02.1: 
+#27/02: 
 .1.Landing page elements:
 -Background image.
 -Form for bookings.
@@ -7,6 +7,8 @@
 .2.Modifications.
 .3.Css file added and styles created based it chatgpt.
 
-TOMORROW: 
+#15/03: 
+.1.Checkpoint.
+.2.Slideshow structure.
 -Background slider.
 -Create sections.
