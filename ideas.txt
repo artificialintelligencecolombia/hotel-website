@@ -1,4 +1,4 @@
-#27/02.1:
+#27/02:
 
 //WEBSITE'S REFERENCES
 
@@ -16,3 +16,10 @@ This section'll be as big as the first screen.
 The main menu'll contain a section for restaurants. Culture.  Services.
 Transportation.
 -There'll be a chat sticked in the whole website.
+
+
+
+#15/03:
+
+//SEARCHING
+-To find out how many images does a slideshow contain.

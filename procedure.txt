@@ -10,5 +10,3 @@
 #15/03: 
 .1.Checkpoint.
 .2.Slideshow structure.
--Background slider.
--Create sections.

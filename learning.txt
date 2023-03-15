@@ -1,0 +1,7 @@
+#15/03:
+
+//GIT & GITHUB
+-git log --stat
+Display the commits history.
+
+
