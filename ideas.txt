@@ -11,8 +11,8 @@ https://www.hideella.com/
 //IDEAS FOR INDEX.HTMl
 -Below the first screen, there will be a space for the reviews.
 This section'll be as big as the first screen.
--The background img will be a slider. (It can contain a YT link img).
+-The background of the index will contain an slideshow. (It could  be a YT link img).
 -The "events" menu item will contain everything about the city's shows.
 The main menu'll contain a section for restaurants. Culture.  Services.
 Transportation.
--Ther'll be a chat sticked in the whole website.
+-There'll be a chat sticked in the whole website.
