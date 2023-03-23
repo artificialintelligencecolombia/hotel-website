@@ -10,3 +10,18 @@
 #15/03: 
 .1.Checkpoint.
 .2.Slideshow structure.
+
+
+#22/03:
+.1.Site requirements:
+..Bookings.
+..Simple structure.
+..Provide info (of he hotel and tourism).
+
+.2.Development approach (Technologies).
+-HTML, CSS, JS.
+-Boostrap, Node.js, Angular.
+
+.3.Website design:
+-Figma.
+
