@@ -1,6 +1,6 @@
-#27/02:
+# 27/02:
 
-//WEBSITE'S REFERENCES
+## WEBSITE'S REFERENCES
 
 https://www.riadnelia.com/
 https://slh.com/
@@ -8,7 +8,7 @@ https://www.hideella.com/
 
 
 
-//IDEAS FOR INDEX.HTMl
+## IDEAS FOR INDEX.HTMl
 -Below the first screen, there will be a space for the reviews.
 This section'll be as big as the first screen.
 -The background of the index will contain an slideshow. (It could  be a YT link img).
@@ -19,7 +19,7 @@ Transportation.
 
 
 
-#15/03:
+# 15/03:
 
-//SEARCHING
+## SEARCHING
 -To find out how many images does a slideshow contain.

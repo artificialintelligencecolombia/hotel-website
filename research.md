@@ -1,8 +1,4 @@
-
-
-
-
-#27/02:
+# 27/02:
 
 //HTML
 -&copy
@@ -10,7 +6,7 @@ Its a symbol for copyrights.
 
 
 
-#15/03:
+# 15/03:
 
 //GIT & GITHUB
 -git log --stat
@@ -25,9 +21,9 @@ Indents the selected code.
 
 
 
-#22/03:
+# 22/03:
 
-//CHAT GPT3
+### CHAT GPT3
 
 Sure! Here's a step-by-step guide for creating a hotel website using Bootstrap and Angular:
 
