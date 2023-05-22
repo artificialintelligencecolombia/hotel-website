@@ -1,25 +1,3 @@
-# 27/02:
-
-//HTML
--&copy
-Its a symbol for copyrights.
-
-
-
-# 15/03:
-
-//GIT & GITHUB
--git log --stat
-Display the commits history.
-
-//VSCODE
--ctrl + a
-Selects all the code.
-
--ctrl + k -> ctrl + f 
-Indents the selected code.
-
-
 
 # 22/03:
 

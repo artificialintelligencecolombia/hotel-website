@@ -9,7 +9,7 @@ https://www.hideella.com/
 
 
 ## IDEAS FOR INDEX.HTMl
--Below the first screen, there will be a space for the reviews.
+-Index:  there will be a space for the reviews.
 This section'll be as big as the first screen.
 -The background of the index will contain an slideshow. (It could  be a YT link img).
 -The "events" menu item will contain everything about the city's shows.
