@@ -1,4 +1,176 @@
+# 23/05 
+
+## Defining hotel audience
+
+Here are some steps on how to define your target audience for your hotel:
+
+1. **Identify your hotel's unique selling points (USPs).** 
+- What makes your hotel different from the competition?
+.location in a tranquil residential neighbor.
+.merchandising products for the hotel and customers
+.Experienced host for local guide and activities recommendation.
+.Affordable p0rice for the hotel capacity, features and its whole amenities.
+.Bilingual communication with the guests.
+.Proper space for working and leisure.
+
+- What are your hotel's strengths?
+.Peaceful and relaxing ambient.
+.Wide amenities for the most demanding guests.
+.Offer for a wholesome and cultural experience.
+.Easy, fast and friendly communication.
+
+Once you know your USPs, you can start to identify your target audience.
+
+2. **Consider your hotel's location.**
+- Where is your hotel located?
+.Santa Monica, medellin.
+
+What are the demographics of the area?
+
+What are the attractions in the area?
+.Comuna 13 grafitour
+.Nutibara Avenue
+.Los Molinos shopping mall
+.Unicentro Shopping mall
+.chess park
+.viva laureles
+.Cerro de las 3 cruces
+.Stadium
+.Metro de Medellin
+
+
+Your hotel's location will help you to identify your target audience.
+
+3. **Consider your hotel's price point.** How much do you charge for the entire place? Your hotel's price point will help you to identify your target audience.
+148 usd, minimum 3 nights, 44 usd cleaning fee.
+
+4. **Consider your hotel's amenities.** 
+What amenities does your hotel offer? 
+.high speed Wifi
+
+.safe lock.
+
+.queen size main bedroom.
+.tower fan.
+.Smart tvs
+.Hot water & cold water showers.
+- Hair dryer.
+
+.balcony.
+.Outside view, Backyard view.
+.Parking slots (2)
+.Remote control gate.
+
+.5 rooms.
+.4 bathrooms.
+
+.6 spaces dining table.
+.full kitchen.
+.microwave.
+.oven.
+.coffee maker.
+.blender.
+.grill extractor.
+.fridge.
+.freezer.
+.set of plates, glasses, cups and cutlery.
+.set of glasses for wine.
+.set of pans.
+.set of bbq tools.
+
+.hot tub.
+.temathic lights.
+.sun chair.
+.terrace table and chairs.
+
+.Work desk.
+.Balcony.
+.pet friendly.
+.tanning chair.
+.bbq.
+.washer.
+.gas dryer.
+
+.freezer
+.oven.
+
+Your hotel's amenities will help you to identify your target audience.
+5. **Research your competition.** Who are your hotel's competitors? What are their target audiences? By researching your competition, you can get a better understanding of your own target audience.
+
+Once you have considered all of these factors, you will be able to identify your target audience for your hotel. Your target audience is the group of people who are most likely to be interested in your hotel and its offerings. By understanding your target audience, you can tailor your marketing and sales efforts to reach them and attract them to your hotel.
+
+Here are some additional tips for defining your target audience:
+
+* **Use market research data.** There is a wealth of market research data available that can help you to identify your target audience. This data can be found from a variety of sources, including government agencies, industry associations, and market research firms.
+* **Talk to your customers.** One of the best ways to identify your target audience is to talk to your current customers. Ask them about their reasons for choosing your hotel, their needs and preferences, and their demographics.
+* **Use social media.** Social media can be a great way to connect with your target audience and learn more about them. Follow your target audience on social media and pay attention to the content that they like and share.
+
+By following these tips, you can define your target audience for your hotel and tailor your marketing and sales efforts to reach them.
+
+## Hotel website guide - Bard
+
+- The prompt is = Engage IT Revolution: GPT4 - Youtube Intro video/ 21/05
+
+Here are the steps on how to create a full hotel website from scratch:
+
+1. **Plan your website.** Before you start building your website, it's important to plan what you want it to include. This includes things like the following:
+    * **Your target audience:** Who are you trying to reach with your website?
+    * **Your hotel's brand:** What is the look and feel of your hotel?
+    * **Your booking form:** How do you want guests to book rooms?
+    * **Your search engine optimization (SEO):** How do you want your website to rank in search engine results pages (SERPs)?
+    * **Your mobile capabilities:** How will your website look and function on mobile devices?
+
+2. **Choose your technology stack.** Once you know what you want your website to include, you need to choose the right technology stack. This includes the following:
+    * **Web development framework:** This is the framework that you'll use to build the front-end of your website. Some popular options include React, Angular, and Vue.js.
+    * **Back-end programming language:** This is the language that you'll use to build the back-end of your website. Some popular options include Python, Java, and PHP.
+    * **Database:** This is where you'll store your website's data. Some popular options include MySQL, PostgreSQL, and MongoDB.
+    * **Content management system (CMS):** This is a software application that makes it easy to create and manage content on your website. Some popular options include WordPress, Drupal, and Joomla.
+
+3. **Design your website.** Once you've chosen your technology stack, you need to design your website. This includes things like the following:
+    * **Your website's layout:** How will your website be laid out?
+    * **Your website's colors:** What colors will you use?
+    * **Your website's fonts:** What fonts will you use?
+    * **Your website's images:** What images will you use?
+
+4. **Build your website.** Once you've designed your website, you need to build it. This involves coding the front-end and back-end of your website.
+
+5. **Test your website.** Once you've built your website, you need to test it to make sure it works properly. This includes things like the following:
+    * **Testing the website's navigation:** Can users easily find what they're looking for?
+    * **Testing the website's forms:** Can users easily submit forms?
+    * **Testing the website's mobile capabilities:** Does the website look and function properly on mobile devices?
+
+6. **Launch your website.** Once you've tested your website and you're happy with it, you can launch it. This involves making your website live on the internet.
+
+7. **Promote your website.** Once you've launched your website, you need to promote it so that people can find it. This includes things like the following:
+    * **Search engine optimization (SEO):** Optimizing your website for search engines so that it ranks higher in SERPs.
+    * **Social media marketing:** Promoting your website on social media platforms like Facebook, Twitter, and Instagram.
+    * **Pay-per-click (PPC) advertising:** Running ads on search engines and social media platforms.
+
+Here are some additional tips for creating a successful hotel website:
+
+* Make sure your website is mobile-friendly. More and more people are using their smartphones and tablets to book travel, so it's important that your website looks good and functions properly on mobile devices.
+* Use high-quality images and videos. Images and videos can help to make your website more visually appealing and engaging.
+* Make sure your website is easy to use. Users should be able to find what they're looking for quickly and easily.
+* Keep your website up-to-date. Make sure to regularly update your website with new content, such as photos, videos, and blog posts.
+* Promote your website. Let people know about your website through social media, email marketing, and other channels.
+
+By following these steps, you can create a full hotel website that will help you to attract more guests and boost your bookings.
+
 # 21/05
+
+##  Hotel website intro: GPT4 - Youtube
+
+- as a youtube channel creator with 1 million views, give me a description, tags and title for the intro video of the first project which consists in a full hotel website. 
+
+Title: "Building a Full Hotel Website: From Concept to Creation"
+
+Description: 
+"Welcome to our YouTube channel! In this video, we embark on an exciting journey of building a fully functional hotel website from scratch. Join us as we take you through each step of the development process, from gathering requirements to designing the user interface, implementing a robust backend, integrating payment gateways, and creating a seamless booking system. Whether you're a web developer or simply interested in the world of web development, this series will provide you with valuable insights and practical knowledge. Subscribe to our channel for more exciting web development projects!"
+
+Tags: 
+hotel website, full-stack web development, web design, web development tutorial, hotel booking system, website development, frontend development, backend development, JavaScript, Node.js, Express.js, MongoDB, responsive web design, payment gateway integration, user authentication, web development project
+
+Remember to customize the title, description, and tags based on your channel's style and target audience.
 
 ## Engage IT Revolution: GPT4 - Youtube Intro video
 
