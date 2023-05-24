@@ -1,6 +1,6 @@
 # 23/05 
 
-## Defining hotel audience
+## Defining hotel target audience: Bard
 
 Here are some steps on how to define your target audience for your hotel:
 
@@ -38,7 +38,6 @@ What are the attractions in the area?
 .Stadium
 .Metro de Medellin
 
-
 Your hotel's location will help you to identify your target audience.
 
 3. **Consider your hotel's price point.** How much do you charge for the entire place? Your hotel's price point will help you to identify your target audience.
@@ -47,6 +46,10 @@ Your hotel's location will help you to identify your target audience.
 4. **Consider your hotel's amenities.** 
 What amenities does your hotel offer? 
 .high speed Wifi
+.5 rooms.
+.4 bathrooms.
+.10 people capacity.
+.pet friendly.
 
 .safe lock.
 
@@ -54,25 +57,25 @@ What amenities does your hotel offer?
 .tower fan.
 .Smart tvs
 .Hot water & cold water showers.
-- Hair dryer.
+.Hair dryer.
 
 .balcony.
 .Outside view, Backyard view.
-.Parking slots (2)
+.Parking slots (2).
+.garden.
 .Remote control gate.
 
-.5 rooms.
-.4 bathrooms.
-
-.6 spaces dining table.
+.dining table with 6 spaces.
 .full kitchen.
 .microwave.
 .oven.
 .coffee maker.
 .blender.
+.stove.
 .grill extractor.
 .fridge.
 .freezer.
+.dish washer.
 .set of plates, glasses, cups and cutlery.
 .set of glasses for wine.
 .set of pans.
@@ -81,20 +84,28 @@ What amenities does your hotel offer?
 .hot tub.
 .temathic lights.
 .sun chair.
-.terrace table and chairs.
+.terrace table with 4 chairs.
+.bbq grill.
 
-.Work desk.
-.Balcony.
-.pet friendly.
-.tanning chair.
-.bbq.
-.washer.
-.gas dryer.
+.laundry washer.
+.laundry gas dryer.
 
-.freezer
-.oven.
+.welcome basket.
+.toilet paper.
+.soap (for hands and body).
+.conditioner.
+.one towel per guest.
+.2 pillows per guest.
+.linens for each bedroom.
+
+.first aid kit.
+.fire extinguisher.
+.smoke dectector.
+.carbon monoxide detector.
+.emergency contact.
 
 Your hotel's amenities will help you to identify your target audience.
+
 5. **Research your competition.** Who are your hotel's competitors? What are their target audiences? By researching your competition, you can get a better understanding of your own target audience.
 
 Once you have considered all of these factors, you will be able to identify your target audience for your hotel. Your target audience is the group of people who are most likely to be interested in your hotel and its offerings. By understanding your target audience, you can tailor your marketing and sales efforts to reach them and attract them to your hotel.
@@ -115,13 +126,47 @@ Here are the steps on how to create a full hotel website from scratch:
 
 1. **Plan your website.** Before you start building your website, it's important to plan what you want it to include. This includes things like the following:
     * **Your target audience:** Who are you trying to reach with your website?
+    ### 23/05 Target audience
+
     * **Your hotel's brand:** What is the look and feel of your hotel?
+    .VIP
+
     * **Your booking form:** How do you want guests to book rooms?
+    .entire place.
+
     * **Your search engine optimization (SEO):** How do you want your website to rank in search engine results pages (SERPs)?
+
+    keywords:
+    .Airbnb Medellin
+    .House rental Medellin
+    .Apartment rental Medellin
+    .Vacation rental Medellin
+    .Entire place rental Medellin
+    .Bleisure Medellin
+    .Business trip Medellin
+    .Vacation Medellin
+    .Travel Medellin
+    .Visit Medellin
+
+    social:
+    .fb.
+    .ig.
+    youtube.
+    .twitter.
+
     * **Your mobile capabilities:** How will your website look and function on mobile devices?
+    .responsive design.
 
 2. **Choose your technology stack.** Once you know what you want your website to include, you need to choose the right technology stack. This includes the following:
+    .guests use IOS & Web for bookings.
+
     * **Web development framework:** This is the framework that you'll use to build the front-end of your website. Some popular options include React, Angular, and Vue.js.
+
+    .Javascript, Typescript.
+    .react, state management library: redux.
+    .tailwind (css), sass, purge.
+    .module bundler: webpack.
+
     * **Back-end programming language:** This is the language that you'll use to build the back-end of your website. Some popular options include Python, Java, and PHP.
     * **Database:** This is where you'll store your website's data. Some popular options include MySQL, PostgreSQL, and MongoDB.
     * **Content management system (CMS):** This is a software application that makes it easy to create and manage content on your website. Some popular options include WordPress, Drupal, and Joomla.
