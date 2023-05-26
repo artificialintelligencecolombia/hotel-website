@@ -181,9 +181,18 @@ Here are the steps on how to create a full hotel website from scratch:
 
 3. **Design your website.** Once you've chosen your technology stack, you need to design your website. This includes things like the following:
     * **Your website's layout:** How will your website be laid out?
+    .grid
+
     * **Your website's colors:** What colors will you use?
+    #CBCFD7 #748094 #667082 #203354 #192841 
+
     * **Your website's fonts:** What fonts will you use?
+    .Goldoni Regular.
+    .Antic didone Regular.
+    .Open Sans.
+
     * **Your website's images:** What images will you use?
+    .Vip's img gallery.
 
 4. **Build your website.** Once you've designed your website, you need to build it. This involves coding the front-end and back-end of your website.
 
