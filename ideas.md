@@ -160,16 +160,24 @@ Here are the steps on how to create a full hotel website from scratch:
 2. **Choose your technology stack.** Once you know what you want your website to include, you need to choose the right technology stack. This includes the following:
     .guests use IOS & Web for bookings.
 
-    * **Web development framework:** This is the framework that you'll use to build the front-end of your website. Some popular options include React, Angular, and Vue.js.
+    .Frontend:
+      JS: angular, react.
+      CSS: tailwind CSS, Bootstrap.
+      Img library: cloudinary.
 
-    .Javascript, Typescript.
-    .react, state management library: redux.
-    .tailwind (css), sass, purge.
-    .module bundler: webpack.
+    .Backend:
+      JS: Node, express.
+      DB: MongoDB.
+      Cloud hosting: Firebase for mobile, aws doe web app.
 
-    * **Back-end programming language:** This is the language that you'll use to build the back-end of your website. Some popular options include Python, Java, and PHP.
-    * **Database:** This is where you'll store your website's data. Some popular options include MySQL, PostgreSQL, and MongoDB.
-    * **Content management system (CMS):** This is a software application that makes it easy to create and manage content on your website. Some popular options include WordPress, Drupal, and Joomla.
+
+    .Other tech:
+      APIs: Googlemaps api.
+      Security: ssl, two factor authentication.
+      Payment processing: Stripe.
+      User management: Auth0.
+      Email marketing: Mailchimp.
+      Customer support: Zendesk.  
 
 3. **Design your website.** Once you've chosen your technology stack, you need to design your website. This includes things like the following:
     * **Your website's layout:** How will your website be laid out?
