@@ -11,9 +11,10 @@ Here are some steps on how to define your target audience for your hotel:
 .Experienced host for local guide and activities recommendation.
 .Affordable p0rice for the hotel capacity, features and its whole amenities.
 .Bilingual communication with the guests.
-.Proper space for working and leisure.
+.Proper spaces for working and leisure.
 
 - What are your hotel's strengths?
+.Im the owner.
 .Peaceful and relaxing ambient.
 .Wide amenities for the most demanding guests.
 .Offer for a wholesome and cultural experience.
@@ -129,7 +130,7 @@ Here are the steps on how to create a full hotel website from scratch:
     ### 23/05 Target audience
 
     * **Your hotel's brand:** What is the look and feel of your hotel?
-    .VIP
+    .VIP Tourism & Investments 
 
     * **Your booking form:** How do you want guests to book rooms?
     .entire place.
