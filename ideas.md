@@ -264,7 +264,7 @@ Creating a full hotel website from scratch involves various steps, including req
 First, you need to understand what features your website should have. For a hotel website, common features include:
 
 - Display of available rooms and details
-- Room booking system
+- Booking system
 - Payment gateway
 - Customer reviews and ratings
 - Contact information and location map

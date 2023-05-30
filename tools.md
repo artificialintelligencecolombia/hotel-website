@@ -1,11 +1,19 @@
+# 29/05
+
+## Header tags: HTML
+.h1: one per page.
+.h2: for mark up the main sections.
+.h3:for markup the subsections of each section.
+
+
 # 28/05
 
 ## Types of branches: Git
 .master
-.develop
-.feature
-.bugfix
-.release
+.develop: the production.
+.feature: new products on the online store.
+.bugfix: bugfix before develop.
+.release: test the website before release.
 
 ## Creating a new branch: Git
 - git checkout -b newBranch
