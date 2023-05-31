@@ -1,3 +1,12 @@
+# 30/05
+
+## Computer file paths: Anything
+- ../Img/jh.png
+.Se utiliza para subir una carpeta y redirigirnos a la deseada.
+
+- ./Img/hi.png
+.Redireccion desde la misma carpeta o ubicacion.
+
 # 29/05
 
 ## Header tags: HTML
