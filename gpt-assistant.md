@@ -32,10 +32,10 @@ Once you have completed the design process in Figma, you can then export the nec
 
 ### Bard complement
 
-Use high-quality images and videos. This will help to make your website more visually appealing.
-Use a consistent design throughout the website. This will help to create a professional and polished look.
-Use clear and concise language. This will make it easier for users to understand the content of your website.
-Make sure your website is mobile-friendly. This is becoming increasingly important as more and more people are using their smartphones and tablets to access the internet.
+- Use high-quality images and videos. This will help to make your website more visually appealing.
+- Use a consistent design throughout the website. This will help to create a professional and polished look.
+- Use clear and concise language. This will make it easier for users to understand the content of your website.
+- Make sure your website is mobile-friendly. This is becoming increasingly important as more and more people are using their smartphones and tablets to access the internet.
 
 # 02/06
 

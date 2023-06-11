@@ -5,9 +5,16 @@
 }
 
 .slider {
-  width: 100vw;
+  width: 100vw; /* Occupies full viewport width */
+  height: 100vh; /* Occupies full viewport height */
+  overflow: visible; /* Clips content that exceeds the slider area */
+  display: flex; /* Displays images in a horizontal row */
+  transition: transform 0.8s ease-in-out; /* Smooth slide transition */
 }
 
 .slider img {
   width: 100%; /* Ensures images fill the slider container */
+  height: 100%; /* Ensures images fill the slider container */
+  object-fit: cover; /* Maintains aspect ratio and covers the container */
 }
+
