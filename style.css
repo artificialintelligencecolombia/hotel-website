@@ -5,6 +5,8 @@
 }
 
 .slider {
+  position: absolute;
+  z-index: 1;
   width: 100vw; /* Occupies full viewport width */
   height: 100vh; /* Occupies full viewport height */
   overflow: visible; /* Clips content that exceeds the slider area */
@@ -16,5 +18,10 @@
   width: 100%; /* Ensures images fill the slider container */
   height: 100%; /* Ensures images fill the slider container */
   object-fit: cover; /* Maintains aspect ratio and covers the container */
+}
+
+.nav-elements {
+  position: absolute;
+  z-index: 2;
 }
 
