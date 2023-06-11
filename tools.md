@@ -1,3 +1,9 @@
+# 2/06
+
+## Erase a folder: Git Hub
+
+- rm -r my-folder
+
 # 30/05
 
 ## Computer file paths: Anything

@@ -1,9 +1,12 @@
-# 23/05
-- Checkpoint review
+# 03/06
 
-# 22/05
+- Hotels inspiration
 
-## Intro
+.Top worldwidge
+[Google](https://nineorchard.com/)
+[Google](https://www.jumeirah.com/en)
+[Google](https://www.cashelpalacehotel.ie/)
 
-- Realizamos una introduccion basica.
-- Planteamos la estructura del proyecto y sus archivos en el repositorio.
+.Top Medellin
+[Google](https://www.thecharlee.com/en/thecharlee/)
+[Google](https://marqueemedellin.com/)
