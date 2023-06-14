@@ -9,7 +9,6 @@ function nextSlide() {
   currentIndex = (currentIndex + 1) % images.length; /*Calculate 
   the next slide index. It gives numbers from 1 position to final array pos*/
   updateSlider();
-  console.log(currentIndex)
 }
 
 function updateSlider() {
@@ -23,4 +22,5 @@ function updateSlider() {
 
 setInterval(nextSlide, 3000);
 // Automatically transition to the next slide every 3 seconds
+
 
