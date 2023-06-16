@@ -1,3 +1,8 @@
+# 16/06
+
+-We create a basic hotel template in html + css template 
+ 
+
 # 03/06
 
 - Hotels inspiration
