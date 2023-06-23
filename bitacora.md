@@ -18,7 +18,26 @@ tourism & investments
 Booking: airbnb | entire place | 148usd | 44 | 3 nights
 website design: static (CURRENT)
 color: #ffffff | #192841 | #CBCFD7 | #203354
-Fonts: Goldoni Regular | Antic didone Regular | Open Sans
+Fonts: Goldoni Regular | Antic didone Regular | Open Sans.
+
+## Online presence
+
+.ig: 
+- story: 2 per day
+- post: 5 per week
+- reel: 2 per week
+
+.fb:
+- post: 2 per day
+- story: 1 per day
+
+.youtube:
+- videos: 2 per week
+- story: 1 per day
+
+.twitter:
+- 3 per day.
+
 
 # 21/06
 ## Hotels inspiration
